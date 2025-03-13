@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fruit Table</title>
+</head>
+<body>
+
+    <table border="1">
+        <tr>
+            <th>Fruit</th>
+            <th>Image</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Apple</td>
+            <td><img src="apple.jpg" width="100"></td>
+            <td>Sweet and crunchy, comes in red, green, and yellow.</td>
+        </tr>
+        <tr>
+            <td>Banana</td>
+            <td><img src="banana.jpg" width="100"></td>
+            <td>Soft and sweet, rich in potassium.</td>
+        </tr>
+        <tr>
+            <td>Orange</td>
+            <td><img src="orange.jpg" width="100"></td>
+            <td>Juicy citrus fruit, high in Vitamin C.</td>
+        </tr>
+        <tr>
+            <td>Grape</td>
+            <td><img src="grape.jpg" width="100"></td>
+            <td>Grows in clusters, can be red, green, or purple.</td>
+        </tr>
+        <tr>
+            <td>Mango</td>
+            <td><img src="mango.jpg" width="100"></td>
+            <td>Tropical fruit, very sweet and juicy.</td>
+        </tr>
+    </table>
+
+</body>
+</html>
